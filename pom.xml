@@ -4,7 +4,7 @@
 	
 	<artifactId>vault-client</artifactId>
 	<groupId>me.undermon</groupId>
-	<version>1.0-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<name>Vault Client</name>
 	<description>Use chat commands access the VaultAPI as a client.</description>
 	
